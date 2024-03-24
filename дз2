@@ -1,0 +1,5 @@
+git clone https://github.com/netology-code/git-2-homeworks-revert
+cd дз2
+git revert HEAD
+git remote add origin https://github.com/stanyyx/1214/new/main?readme=1
+git push origin master
